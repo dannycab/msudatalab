@@ -1,1 +1,1 @@
-# msudatalab
+# Michigan State University Data Lab
